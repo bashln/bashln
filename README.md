@@ -68,5 +68,4 @@ Provavelmente isso não vai mudar.
 
 ## Contato
 
-[Twitter](https://x.com/bashln) ·  
-Email: <contato.robotics893@passmail.net>
+[Twitter](https://x.com/bashln) [Email](lpdmonteiro@gmail.com) [Mastodon](https://mastodon.social/@leonam)
