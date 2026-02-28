@@ -69,5 +69,5 @@ Provavelmente isso não vai mudar.
 ## Contato
 
 [![Twitter](https://img.shields.io/badge/Twitter-@bashln-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bashln)
-[![Email](https://img.shields.io/badge/Email-lpdmonteiro%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpdmonteiro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lpdmonteiro%40gmail.com-fb923c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpdmonteiro@gmail.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@leonam-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@leonam)
