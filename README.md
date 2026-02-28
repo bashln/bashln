@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" height="200" src="https://i.imgur.com/6T5GU0n.png">
+  <img align="center" height="200" src="https://i.imgur.com/ME4Yd1Y.png">
 </p>
 
 ###
@@ -69,4 +69,4 @@ Provavelmente isso não vai mudar.
 ## Contato
 
 [Twitter](https://x.com/bashln) ·  
-Email: contato.robotics893@passmail.net
+Email: <contato.robotics893@passmail.net>
