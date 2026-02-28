@@ -1,53 +1,72 @@
-<p align="center"><img align="center" height="200" src="https://i.imgur.com/6T5GU0n.png"></p>
+<p align="center">
+  <img align="center" height="200" src="https://i.imgur.com/6T5GU0n.png">
+</p>
 
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Doom%20Emacs-57A143?style=for-the-badge&logo=gnuemacs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Qtile-7B42BC?style=for-the-badge&logo=window-manager&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Alacritty🚀-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Arch%20(CachyOS)-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-Niri-7B42BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal-Kitty-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Browser-Brave-orange?style=for-the-badge&logo=brave&logoColor=white" />
 </p>
 
-# LeonamSh
+# bashln
 
-**Minimalismo, performance e estabilidade.**
+Gosto de Linux, terminais limpos e software simples.
 
----
+Comecei mexendo em scripts e configurações, depois fui me aprofundando em desenvolvimento web.  
+Hoje construo aplicações completas — do banco até a interface — mas continuo priorizando clareza antes de adicionar camadas.
 
-LeonamSh é um projeto voltado para o desenvolvimento de ferramentas simples, rápidas e confiáveis para ambientes Linux.
-
-Inspirado pela filosofia _Keep It Simple_, cada solução busca oferecer agilidade sem abrir mão da robustez e segurança.
-
-## Sobre
-
-- Scripts e automações para ambientes Unix-like.
-- Configurações otimizadas para terminais e sistemas Linux.
-- Desenvolvimento focado em eficiência, clareza e estabilidade.
-
-Atualmente, estou cursando **Desenvolvimento Full Stack Júnior** pela [MaisPraTi](https://curso.maisprati.com.br/), aprimorando habilidades em back-end, front-end e práticas modernas de desenvolvimento de software.
-
-Archpaw nasce da paixão por terminais enxutos, sistemas estáveis e liberdade tecnológica.
+Não gosto muito do rótulo “fullstack”.  
+Pra mim, dev é dev.
 
 ---
 
-## **Repositórios em destaque**
+## O que eu costumo fazer
 
-| Projeto                                                                         | Descrição                                                                  |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [`dotfiles`](https://gitlab.com/archpaw/dotfiles)                               | Configs versionadas de tudo: Arch, Qtile, terminal, Doom Emacs.            |
-| [`scripts`](https://gitlab.com/archpaw/scripts)                                 | Scripts bash pra automação, manutenção e pós-install.                      |
-| [`userOverridesArkenfox`](https://gitlab.com/archpaw/userOverridesArkenfox)     | Ajustes pessoais no `user.js` do Arkenfox, focado em segurança com leveza. |
-| [`layouts-landing-page-ex`](https://gitlab.com/archpaw/layouts-landing-page-ex) | Experimentos de front-end com responsividade e clean design.               |
-| [`calcula_peso_volume_pdf`](https://gitlab.com/archpaw/calcula_peso_volume_pdf) | Extrator de peso e volume direto de PDFs via Python + regex mágica.        |
+- Scripts e automações para Arch Linux
+- Configuração e organização de ambientes (dotfiles)
+- Aplicações web com JavaScript / React
+- Backend simples e direto
+- Ferramentas de terminal
 
 ---
 
-> **"Menos é mais — especialmente no terminal."**
+## Projetos
+
+### 🕒 [pomotui](https://github.com/bashln/pomotui)
+
+Um timer em Go feito para rodar no terminal.  
+Minimalista, sem distrações, focado em produtividade.
+
+### 🛒 [projeto-mercado](https://github.com/bashln/projeto-mercado)
+
+Sistema para controle de compras e comparação de preços.  
+Projeto de estudo que acabou virando algo sério.
+
+### ⚙️ [dotfiles](https://github.com/bashln/dotfiles)
+
+Minha configuração pessoal (Arch, WM, terminal, editor).  
+Sempre em mudança.
+
+### 🐚 [scripts-arch](https://github.com/bashln/scripts)
+
+Scripts de automação e manutenção para meu ambiente Linux.
+
+---
+
+## Atualmente
+
+Estudando e evoluindo como desenvolvedor, principalmente na parte de arquitetura, organização de código e construção de sistemas mais sólidos.
+
+Ainda gosto mais de terminal do que de interface gráfica.  
+Provavelmente isso não vai mudar.
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/leonam-monteiro-679200362) · [Mastodon](https://hachyderm.io/@archpaw) · [Email](contato.robotics893@passmail.net)
+[Twitter](https://x.com/bashln) ·  
+Email: contato.robotics893@passmail.net
