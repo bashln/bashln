@@ -68,4 +68,4 @@ Provavelmente isso não vai mudar.
 
 ## Contato
 
-[Twitter](https://x.com/bashln) [Email](lpdmonteiro@gmail.com) [Mastodon](https://mastodon.social/@leonam)
+[Twitter](https://x.com/bashln) [Email](mailto:lpdmonteiro@gmail.com) [Mastodon](https://mastodon.social/@leonam)
