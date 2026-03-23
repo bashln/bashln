@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" height="200" src="https://i.imgur.com/oa53sPD.png">
-</p>
-
 ###
 
 <p align="center">
@@ -12,7 +8,7 @@
   <img src="https://img.shields.io/badge/Browser-Brave-orange?style=for-the-badge&logo=brave&logoColor=white" />
 </p>
 
-# bashln
+# paesmont
 
 Gosto de Linux, terminais limpos e software simples.
 
