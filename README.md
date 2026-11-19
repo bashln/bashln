@@ -30,7 +30,13 @@ Apps Android que funcionam sem conta e sem servidor, ferramentas de terminal em 
 
 ### [MeuGasto](https://github.com/bashln/MeuGasto)
 
-Registra compras de supermercado pelo QR Code da NFC-e. O usuário escaneia o cupom, o app consulta a SEFAZ do estado e grava estabelecimento, data, itens e preços no banco local, sem digitar item por item. A nuvem é opcional e as tabelas de analytics não guardam identidade, com pelo menos cinco contribuidores por agregado.
+<p align="center">
+  <img src="docs/screenshots/meugasto-inicio.jpg" width="240" alt="Tela inicial do MeuGasto com resumo de gastos do mês" />
+  <img src="docs/screenshots/meugasto-compras.jpg" width="240" alt="Lista de compras com estabelecimentos ocultados e valores por compra" />
+  <img src="docs/screenshots/meugasto-relatorios.jpg" width="240" alt="Relatórios com tendência de gastos e distribuição por mercado" />
+</p>
+
+Registra compras de supermercado pelo QR Code da NFC-e. O usuário escaneia o cupom, o app consulta a SEFAZ do estado e grava estabelecimento, data, itens e preços no banco local, sem digitar item por item. A nuvem é opcional e as tabelas de analytics não guardam identidade, com pelo menos cinco contribuintes por agregado.
 
 Kotlin, Jetpack Compose, Room, Ktor e Supabase. [Código](https://github.com/bashln/MeuGasto) e [APK](https://github.com/bashln/MeuGasto/releases).
 
