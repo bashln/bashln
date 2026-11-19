@@ -36,6 +36,11 @@ Kotlin, Jetpack Compose, Room, Ktor e Supabase. [Código](https://github.com/bas
 
 ### [TCG Coleção](https://github.com/bashln/tcg-colecao)
 
+<p align="center">
+  <img src="docs/screenshots/tcg-inicio.jpg" width="260" alt="Tela inicial do TCG Coleção com valor da coleção e cartas mais valiosas" />
+  <img src="docs/screenshots/tcg-cartas.jpg" width="260" alt="Grade da coleção com cartas, variante, condição e preço pago" />
+</p>
+
 Organiza coleções de cartas Pokémon no Android e no navegador. O reconhecimento da carta roda no aparelho, a coleção funciona offline e a sincronização entre as duas versões é opcional. O domínio é um módulo Kotlin puro, testado na JVM, separado do módulo Android.
 
 Kotlin, Compose, Room, ML Kit, React 19, TypeScript e Supabase.
